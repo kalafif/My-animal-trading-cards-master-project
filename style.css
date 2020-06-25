@@ -1,0 +1,35 @@
+
+p       {
+          font-family: serif;
+          }
+h3       {
+        font-family: sans-serif;
+        margin: 10px;
+        }
+#p-set {
+        font-style: italic;
+        }
+#outer  {
+            border: 1px solid lightgray;
+            padding: 10px;
+            width: 320px;
+            margin:10px auto;
+            box-shadow: 7px 7px #E0E0E0;
+            }
+#outer img{
+            width: 300px;
+            display: block;
+            margin: 0 auto;
+           }
+#inner     {
+            width: 288px;
+            border: 1px solid lightgray;
+            padding: 10px;
+            margin: 10px auto;
+          }
+span      {
+          font-weight: bold;
+          }
+li        {
+          list-style-type: none;
+          }
